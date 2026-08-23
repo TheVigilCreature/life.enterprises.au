@@ -110,7 +110,6 @@ body, html {
 }
 .social-links div {
     width: 10%;
-    max-width: 40px;
     text-align: center;
 }
 .social-links img {
