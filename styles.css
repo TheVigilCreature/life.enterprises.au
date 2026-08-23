@@ -114,7 +114,7 @@ body, html {
     text-align: center;
 }
 .social-links img {
-    width: 100%;
+    width: 25%;
     height: auto;
     /* Apply individual filters for specific colors */
     .insta { filter: hue-rotate(708deg) brightness(1.2); }
@@ -122,7 +122,7 @@ body, html {
     /* ... (rest of your specific filters) ... */
 }
 
-/* --- MAIN MENU (PLANET SYMMETRY) --- */
+/* --- MAIN MENU --- */
 .menu {
     display: flex;
     flex-direction: column;
