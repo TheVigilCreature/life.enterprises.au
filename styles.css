@@ -101,7 +101,7 @@ body, html {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    width: 100%;
+    width: 25%;
     height: 0%
     padding: 15px 0;
     position: relative;
