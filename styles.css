@@ -97,7 +97,7 @@ body, html {
 
 /* --- Social Links --- */
 .social-links {
-
+    display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
