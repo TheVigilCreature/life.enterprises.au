@@ -152,7 +152,7 @@ body, html {
 
 .planet-img-left img, .planet-img-right img, .social-links img {
     width: 100%;
-    height: 100%;
+    height: auto;
 
 }
 
